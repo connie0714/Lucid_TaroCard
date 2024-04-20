@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
-import Header from './common/header';
-import Main from './common/main';
+import Header from './common/Header';
+import Main from './common/Main';
 
 function Mainpage() {
 
